@@ -1,4 +1,3 @@
-#watch lecture 31 to make csv file of most frequently used words of language you want to learn.
 from tkinter import *
 import pandas
 import random
